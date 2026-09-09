@@ -1,4 +1,4 @@
 # solo-doc
 
-This is my firs repository. I refuse to say "repo". 
+This is my first repository. I refuse to say "repo". 
 
