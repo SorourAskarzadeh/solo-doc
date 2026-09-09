@@ -8,7 +8,7 @@ Install VSCode, a free code/text editor that's become a standard tool for writin
 Sign up for a GitHub account. Then install GitHub Desktop, a separate app for your computer. GitHub.com is where your repositories live online; GitHub Desktop is what lets you sync changes on your computer with that online repo.
 
 ## 3. Create a Repository
-Create a new public repository on GitHub, and inside it, add a file named exactly index.html. This specific name matters, since GitHub Pages looks for index.html as the homepage. Add a link back to your repo using an actual HTML link tag, not just plain text (it's an easy mistake to write the words without wrapping them in a link): <a href="https://github.com/your-username/your-repo">Link to repository</a>
+Create a new public repository on GitHub, and inside it, add a file named exactly index.html. This specific name matters, since GitHub Pages looks for index.html as the homepage. Add a link back to your repo using an actual HTML link tag, not just plain text (it's an easy mistake to write the words without wrapping them in a link): <a href="https://github.com/SorourAskarzadeh/solo-doc">Link to repository</a>Link to repository</a>
 
 ## 4. Stage, Commit, and Push
 In GitHub Desktop, changed files show up under the "Changes" tab. This is staging, choosing what to include in your next save. Write a short message describing the change, click Commit to main, then click Push origin to upload it to GitHub. Doing it in these separate steps, instead of one big save, means your project keeps a clear list of small changes over time, each with its own label. This is easier to read than one messy pile of edits.
